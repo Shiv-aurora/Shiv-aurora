@@ -6,8 +6,7 @@
 ## About Me
 
 ```text
-Computer Science & Economics @ Villanova |  AI & Quant Researcher | Prev. Intern @ EY & Esri 
-
+Computer Science & Economics @ Villanova 
 ```
 
 
@@ -24,7 +23,6 @@ I’m into products that are:
 2. 🎯 Useful
 3. ✨ Designed with intent and without fluff
 
-Wanna build stuff that makes people go: *"Wait this was built by a student?"*
 
 
 ## 💻 Tech Stack
@@ -99,15 +97,9 @@ Wanna build stuff that makes people go: *"Wait this was built by a student?"*
 
 
 
-##  Current Focus
-
--   🔬  **Research:**  Publishing my reserach work     
-    
--   🤝  **Networking:**  Open to 2026 SDE / Quant internships 
-
 ----------
 
-###  Random Dev Quote (bc they are kinda fire)
+###  Random Dev Quote (for literally no reason)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
